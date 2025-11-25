@@ -3,3 +3,6 @@ This Shortcut automatically exports MAT files from ADICHT files using LabChart 8
 Set the directory in the first sequence of the Shortcut (“Get contents of *”).
 
 Tested on Tahoe 26.1 and Labchart Pro 8.1.30 
+
+Error to fix:
+Unexpectedely quit took a focus away.
